@@ -1,0 +1,10 @@
+
+> figma-make-app@1.0.0 preview
+> vite preview --host 0.0.0.0 --port 4173
+
+(!) Your Vite config uses features that are unsupported by `configLoader: 'native'`, which is planned to become the default in a future major version of Vite:
+  - `__dirname` (vite.config.ts:30:27). Use `import.meta.dirname` instead
+  - JSON import "./.figma/make/site.json" without import attributes (vite.config.ts:6:31). Add `with { type: 'json' }`
+Set `VITE_CONFIG_NATIVE_IGNORE_WARNING=true` to suppress this warning.
+  ➜  Local:   http://localhost:4173/
+  ➜  Network: http://21.0.7.239:4173/  eth0
