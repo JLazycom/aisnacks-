@@ -1,0 +1,10 @@
+{
+  "description": "An interactive online store styled as a vending machine selling AI-generated prompts wrapped as snacks with functional, themed buttons.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
